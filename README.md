@@ -1,5 +1,5 @@
-"eventual consistency means 'creates garbage'"
--Michael Stonebraker
+"eventual consistency means 'creates garbage'"\
+-- Michael Stonebraker
 
 <!---
 rickgm/rickgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
